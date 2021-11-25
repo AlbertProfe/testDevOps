@@ -1,7 +1,7 @@
 package dev.example.devop.booktestdevop;
 
 public class Book {
-	//fields
+	//fields from book
 	private String title;
 	private String ISBN;
 	private int pages;
